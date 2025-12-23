@@ -1,0 +1,7 @@
+What is Pseudocode?
+
+Pseudocode is:
+A way to write an algorithm in simple, programming-like language without being restricted to a specific language.
+
+📌 Meaning:
+Not actual code. But it illustrates the idea and steps.
