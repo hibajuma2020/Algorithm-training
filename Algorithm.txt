@@ -52,4 +52,17 @@ For each letter in string
 If the letter is a vowel 
 count = count + 1
 Return count
-End Algorithm
+End Algorithm                                                                                      
+                                                                         Task1 
+Start
+   Set sum to 0
+   Set count to 0
+
+   For each number in the list
+       Add number to sum
+       Increase count by 1
+   End For
+
+   Calculate average as sum divided by count
+   Return average
+End
