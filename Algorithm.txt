@@ -1,7 +1,20 @@
-What is Pseudocode?
+1- What is Pseudocode?
 
 Pseudocode is:
 A way to write an algorithm in simple, programming-like language without being restricted to a specific language.
 
 📌 Meaning:
 Not actual code. But it illustrates the idea and steps.
+
+2- Why and When Do We Use Pseudocode?
+
+✨ Why?
+To understand the problem before writing the code
+It facilitates logical thinking
+Any programmer can understand it
+
+⏰ When Do We Use It?
+Before writing the program
+In exams
+When explaining concepts
+When designing algorithms
