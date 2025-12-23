@@ -213,3 +213,20 @@ Start
 End
 
 
+Palindrome or Not a Palindrome
+A palindrome is a word, number, phrase, or sequence that reads the same forward and backward, ignoring spaces, punctuation, and capitalization.
+
+Palindrome examples:
+"madam" ✅
+"racecar" ✅
+"121" ✅
+"Able was I ere I saw Elba" ✅
+
+Not a palindrome examples:
+"hello" ❌
+"1234" ❌
+"world" ❌
+
+So, if something looks the same from left to right and right to left, it’s a Palindrome. Otherwise, it’s Not a Palindrome.
+
+
