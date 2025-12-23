@@ -78,3 +78,19 @@ Start
    End If
 
 End
+
+Task3
+Start
+   Input list of numbers
+   Set smallest to first number in the list
+
+   For each number in the list
+       If number is less than smallest then
+           Set smallest to number
+       End If
+   End For
+
+   Return smallest
+End
+
+
