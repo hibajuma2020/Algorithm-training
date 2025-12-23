@@ -66,3 +66,15 @@ Start
    Calculate average as sum divided by count
    Return average
 End
+
+Task2 
+Start
+   Input number
+
+   If number modulo 2 equals 0 then
+       Print "Even"
+   Else
+       Print "Odd"
+   End If
+
+End
