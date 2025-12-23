@@ -110,3 +110,17 @@ Start
    Return positiveCount and negativeCount
 End
 
+Task5
+Start
+   Input list of numbers
+   Create an empty list called uniqueList
+
+   For each number in the list
+       If number is not in uniqueList then
+           Add number to uniqueList
+       End If
+   End For
+
+   Return uniqueList
+End
+
