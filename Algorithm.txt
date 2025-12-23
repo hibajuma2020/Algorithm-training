@@ -31,3 +31,25 @@ WHILE
 RETURN
 
 📌 No programming language details required.
+
+4- Example of a problem algorithm written in Pseudocode:
+🔹Problem:
+Find the sum of two numbers
+
+🔹Pseudocode:
+Algorithm Sum
+Input two numbers a and b
+Add a and b
+Return the result
+End Algorithm
+
+🔹 Example second (a little stronger):
+
+Problem: Countels vowels in a string
+Algorithm CountVowels
+Set count = 0
+For each letter in string 
+If the letter is a vowel 
+count = count + 1
+Return count
+End Algorithm
