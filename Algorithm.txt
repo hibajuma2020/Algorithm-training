@@ -93,4 +93,20 @@ Start
    Return smallest
 End
 
+Task4
+Start
+   Input list of numbers
+   Set positiveCount to 0
+   Set negativeCount to 0
+
+   For each number in the list
+       If number > 0 then
+           Increase positiveCount by 1
+       Else if number < 0 then
+           Increase negativeCount by 1
+       End If
+   End For
+
+   Return positiveCount and negativeCount
+End
 
