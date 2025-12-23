@@ -139,3 +139,27 @@ Not Prime Numbers (called composite numbers):
 Special note:
 1 is not prime because it has only one factor.
 2 is the only even prime number.
+
+Task6
+Start
+   Input N
+   Create an empty list called primeList
+
+   For number from 2 to N
+       Set isPrime to true
+
+       For i from 2 to number - 1
+           If number modulo i equals 0 then
+               Set isPrime to false
+               Break inner loop
+           End If
+       End For
+
+       If isPrime is true then
+           Add number to primeList
+       End If
+   End For
+
+   Return primeList
+End
+
