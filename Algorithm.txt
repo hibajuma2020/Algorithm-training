@@ -229,4 +229,24 @@ Not a palindrome examples:
 
 So, if something looks the same from left to right and right to left, it’s a Palindrome. Otherwise, it’s Not a Palindrome.
 
+Task9
+Start
+   Input string
+   Convert string to lowercase
+   Remove all spaces from string
+   Set reversedString to empty string
+
+   For each character from end of string to start
+       Add character to reversedString
+   End For
+
+   If string equals reversedString then
+       Print "Palindrome"
+   Else
+       Print "Not a Palindrome"
+   End If
+
+End
+
+
 
