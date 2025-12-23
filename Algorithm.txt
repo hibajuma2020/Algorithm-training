@@ -18,3 +18,16 @@ Before writing the program
 In exams
 When explaining concepts
 When designing algorithms
+
+3- How to write pseudocode to represent an algorithm?
+
+The method is very simple:
+Write the name of the algorithm.
+Define the steps in order.
+Use simple keywords such as:
+IF
+FOR
+WHILE
+RETURN
+
+📌 No programming language details required.
