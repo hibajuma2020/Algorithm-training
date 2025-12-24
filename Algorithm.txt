@@ -249,4 +249,27 @@ Start
 End
 
 
+Fibonacci Sequence
+The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1.
+
+The sequence looks like this:
+
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, …
+
+How it works:
+
+Start with 0 and 1.
+
+Next number = 0 + 1 = 1
+
+Next number = 1 + 1 = 2
+
+Next number = 1 + 2 = 3
+
+Next number = 2 + 3 = 5
+
+Next number = 3 + 5 = 8 … and so on.
+
+Interesting fact: Fibonacci numbers appear a lot in nature, like in sunflower seeds, pinecones, and seashells. 🌻🐚
+
 
