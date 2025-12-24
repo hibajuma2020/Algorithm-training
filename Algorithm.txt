@@ -272,4 +272,24 @@ Next number = 3 + 5 = 8 … and so on.
 
 Interesting fact: Fibonacci numbers appear a lot in nature, like in sunflower seeds, pinecones, and seashells. 🌻🐚
 
+Task10
+Start
+   Input N
+   Create an empty list called fibonacciList
+
+   If N is greater than or equal to 1 then
+       Add 0 to fibonacciList
+   End If
+
+   If N is greater than or equal to 2 then
+       Add 1 to fibonacciList
+   End If
+
+   While length of fibonacciList is less than N
+       Set nextNumber to sum of last two numbers in fibonacciList
+       Add nextNumber to fibonacciList
+   End While
+
+   Return fibonacciList
+End
 
